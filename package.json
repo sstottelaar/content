@@ -42,7 +42,7 @@
     "node-req": "^2.1.2",
     "p-queue": "6.4.0",
     "prismjs": "^1.20.0",
-    "rehype-minify-whitespace": "^4.0.1",
+    "rehype-minify-whitespace": "^4.0.2",
     "rehype-raw": "^4.0.2",
     "rehype-sort-attribute-values": "^3.0.1",
     "rehype-sort-attributes": "^3.0.1",
@@ -69,7 +69,7 @@
     "eslint": "^7.1.0",
     "husky": "latest",
     "jest": "^26.0.1",
-    "nuxt-edge": "^2.13.0-26519060.8933d375",
+    "nuxt-edge": "^2.13.0-26520502.be726e42",
     "puppeteer": "^3.3.0",
     "standard-version": "^8.0.0",
     "tib": "latest"
